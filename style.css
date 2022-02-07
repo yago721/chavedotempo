@@ -1,0 +1,84 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    border-top-color: #000000;
+    border-left-color: #000000;
+    border-right-color: #000000;
+    border-bottom-color: #333333;
+    border-bottom-width: 0.5px;
+    background: black;
+    border-style: solid;
+}
+
+.logo-higraph{
+    width: 8%;
+    margin: 0.4% 0 0.4% 46%;
+    display: block;
+}
+
+.img-banner{
+    width: 90%;
+    margin: 0 5%;
+    display: block;
+    margin-bottom: 2%;
+}
+
+body{
+    background: black;
+    color: white;
+    font-family: 'Cinzel', serif;
+}
+
+p{
+    padding: 0 3%;
+    text-align: center;
+    font-size: 16px;
+    margin-bottom: 2%;
+}
+
+.titulo{
+    font-weight: bold;
+    font-size: 30px;
+    font-family: 'Cinzel', serif;
+    text-align: center;
+}
+
+.donate-img{
+    width: 250px;
+    margin: 0.5% 40% 3% 40%;
+}
+
+.social-icons{
+    width: 60%;
+    margin: 0 38%;
+}
+
+.icon-discord{
+    width: 48px;
+    margin-right: 15px;
+}
+
+.icon-tiktok{
+    width: 40px;
+    margin-bottom: 5px;
+    margin-right: 15px;
+}
+
+.icon-instagram{
+    width: 48px;
+    margin-bottom: 3px;
+    margin-right: 15px;
+}
+
+.icon-twitch{
+    width: 48px;
+    margin-right: 15px;
+}
+
+.icon-twitter{
+    width: 52px;
+    margin-bottom: 5px;
+}

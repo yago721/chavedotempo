@@ -33,8 +33,9 @@ body{
 
 p{
     padding: 0 3em;
-    text-align: center;
+    text-align: left;
     margin-bottom: 2%;
+    font-size: 1.09rem;
 }
 
 .titulo{
@@ -47,7 +48,7 @@ p{
 
 .donate-img{
     width: 15%;
-    margin: 0.5% 42.5% 3%;
+    margin: 0.5% 42.5% 0;
 }
 
 .social-icons {

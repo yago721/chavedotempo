@@ -49,10 +49,11 @@ p{
     margin: 0.5% 42.5% 3%;
 }
 
-.social-icons{
-    width: 60%;
-    margin: 1% 41.5%;
-    display: block;
+.social-icons {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
 }
 
 .icon-discord{
@@ -97,7 +98,18 @@ p{
     .social-icons {
         width: 90%;
         margin: 1% 2% 3% 8%;
-        display: inline-block;
+        display: flex;
+    }
+
+    .donate-img{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    P{
+        text-align: left;
+        padding: 0 30px;
     }
 }
 

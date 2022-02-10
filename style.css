@@ -42,6 +42,7 @@ p{
     font-size: 2em;
     font-family: 'Cinzel', serif;
     text-align: center;
+    margin-top: 0.7em;
 }
 
 .donate-img{
@@ -90,11 +91,6 @@ p{
         margin: 0.5% 0 0.5% 48%;
     }
 
-    .donate-img{
-        width: 170px;
-        margin: 0.5% 40% 3% 40%;
-    }
-
     .social-icons {
         width: 90%;
         margin: 1% 2% 3% 8%;
@@ -102,9 +98,8 @@ p{
     }
 
     .donate-img{
-        display: flex;
-        justify-content: center;
-        align-items: center;
+        width: 36%;
+        margin: 2% 32% 5% 32%;
     }
 
     P{
